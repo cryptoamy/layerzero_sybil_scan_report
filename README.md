@@ -10,7 +10,9 @@ The total number of Sybil Addresses is [**17,232**]. Detailed breakdown is as fo
 
 2.2 Among them, there are [**51 clusters**] witch clusters with node sizes [**greater than or equal to 200**]. Detailed information can be found in this folder.   
 
-2.3 
+2.3 Detailed information on the 51 large clusters (including cluster address details and fund network diagrams) can be found in this folder: https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.
+
+
 
 # 3 How does Umbra work?    
 Through Umbra's event logs, although it's complex, we can still trace the entire fund flow chain. In Umbra, all transfers occur between a Sender_address (directly interacting with the Umbra smart contract) and a Withdraw_Address (the final actual recipient address), together forming the fund flow chain. If the same Sender_address has direct fund transactions with many Withdraw_Address, or if the same Withdraw_Address has direct fund transactions with many Sender_address, they will form a cluster. If the addresses in the cluster exceed a certain number, we can almost consider them the work of industrial sybil clusters    
