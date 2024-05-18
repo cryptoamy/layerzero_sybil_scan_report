@@ -9,9 +9,10 @@ The total number of Sybil Addresses is [**17,232**]. Detailed breakdown is as fo
 2.1 We have identified [**260 clusters** ] of industrial witches (clusters with a node size greater than 20).   
 
 2.2 Among them, there are [**51 clusters**] witch clusters with node sizes [**greater than or equal to 200**]. Detailed information can be found in this folder  https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.
+
 The network diagrams for all 260 clusters can be downloaded from Google Drive:https://drive.google.com/file/d/1z1RIjMUnGUMO15EUeT9Pm7pjZmZNwQT0/view?usp=share_link
 
-2.3 Here are some examples of large clusters. Detailed information on the 51 large clusters (including cluster address details and fund network diagrams) can be found in this folder: https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.    
+2.3 Here are some examples of large clusters. Detailed information on the 51 large clusters (including cluster address details and fund network diagrams) can be found in this folder: **https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.**    
 
 
 #### 0x46cef06aaf268e1a72926f26ce0a863 , clusters of 3167 nodes
