@@ -12,7 +12,7 @@ The total number of Sybil Addresses is [**17,232**]. Detailed breakdown is as fo
 
 2.2 Among them, there are [**51 clusters**] witch clusters with node sizes [**greater than or equal to 200**]. Detailed of top of them  can be found in this folder  https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.
 
-The network diagrams for all 260 clusters can be downloaded from Google Drive:https://drive.google.com/file/d/1z1RIjMUnGUMO15EUeT9Pm7pjZmZNwQT0/view?usp=share_link
+The network diagrams for all 260 clusters can be downloaded from Google Drive:https://drive.google.com/file/d/1z1RIjMUnGUMO15EUeT9Pm7pjZmZNwQT0/view?usp=share_lin(he HTML file is the interactive version, the image is the static version, and the CSV contains details.)
 
 2.3 Here are some examples of large clusters. Detailed information on the 51 large clusters (including cluster address details and fund network diagrams) can be found in this folder: **https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.**    
 
