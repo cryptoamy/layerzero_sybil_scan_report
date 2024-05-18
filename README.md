@@ -4,6 +4,8 @@ Umbra is a well-known privacy address protocol. Some industrial sybil clustersma
 # 2 Screening Results
 The final sybil address csv  [```layerzero_sybil_node_final.csv```](https://github.com/cryptoamy/layerzero_sybil_scan/blob/main/layerzero_sybil_node_final.csv)
 
+The report does not include specific screening code. If auditors need to review the code, they can request it in the comments, and I will separately provide detailed screening code.
+
 The total number of Sybil Addresses is [**17,232**]. Detailed breakdown is as follows:    
 
 2.1 We have identified [**260 clusters** ] of industrial witches (clusters with a node size greater than 20).   
