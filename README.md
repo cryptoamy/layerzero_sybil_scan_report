@@ -3,8 +3,11 @@ Umbra is a well-known privacy address protocol. Some industrial sybil clustersma
 
 # 2 Screening Results
 The final sybil address csv  [```layerzero_sybil_node_final.csv```](https://github.com/cryptoamy/layerzero_sybil_scan/blob/main/layerzero_sybil_node_final.csv)
+
 The total number of Sybil Addresses is [**17,232**]. Detailed breakdown is as follows:    
+
 2.1 We have identified [**260 clusters** ] of industrial witches (clusters with a node size greater than 20).   
+
 2.2 Among them, there are [**51 clusters**] witch clusters with node sizes [**greater than or equal to 200**]. Detailed information can be found in this folder.   
 # 3 How does Umbra work?    
 Through Umbra's event logs, although it's complex, we can still trace the entire fund flow chain. In Umbra, all transfers occur between a Sender_address (directly interacting with the Umbra smart contract) and a Withdraw_Address (the final actual recipient address), together forming the fund flow chain. If the same Sender_address has direct fund transactions with many Withdraw_Address, or if the same Withdraw_Address has direct fund transactions with many Sender_address, they will form a cluster. If the addresses in the cluster exceed a certain number, we can almost consider them the work of industrial sybil clusters    
