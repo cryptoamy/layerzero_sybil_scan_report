@@ -15,7 +15,7 @@ The network diagrams for all 260 clusters can be downloaded from Google Drive:ht
 2.3 Here are some examples of large clusters. Detailed information on the 51 large clusters (including cluster address details and fund network diagrams) can be found in this folder: **https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.**    
 
 
-#### 0x46cef06aaf268e1a72926f26ce0a863 , clusters of 3167 nodes
+#### 0x46cef06aaf268e1a72926f26ce0a863 , clusters of 3167 nodes; Download the file from https://github.com/cryptoamy/layerzero_sybil_scan_report/blob/main/result/3167_nodes_0x46cef06aaf268e1a72926f26ce0a86346d0486a6/3167_nodes_graph_0x46cef06aaf268e1a72926f26ce0a86346d0486a6.html , and open it in a browser to view the interactive version.
 ![3167_nodes_0x46cef06aaf268e1a72926f26ce0a86346d0486a6](https://github.com/cryptoamy/layerzero_sybil_scan_report/assets/143737437/5ff05d31-9798-4ada-9f36-f3b2278c8091)
 
 #### 0xaf6c59928d4d9c495ada09f88c5d22333dec342c , clusters of 2369 nodes
