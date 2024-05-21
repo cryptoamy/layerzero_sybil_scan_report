@@ -1,8 +1,8 @@
-1. [The Main Idea](#the-main-idea)
-2. [Screening Results](#screening-results)
-3. [How Does Umbra Work?](#how-does-umbra-work)
-4. [How Do We Track the Complete Fund Flow of a Transfer Completed Through Umbra Using On-Chain Data?](#how-do-we-track-the-complete-fund-flow-of-a-transfer-completed-through-umbra-using-on-chain-data)
-5. [Process Data](#process-data)
+1. [The Main Idea](#1.the-main-idea)
+2. [Screening Results](#2.screening-results)
+3. [How Does Umbra Work?](#3.how-does-umbra-work)
+4. [How Do We Track the Complete Fund Flow of a Transfer Completed Through Umbra Using On-Chain Data?](#4.how-do-we-track-the-complete-fund-flow-of-a-transfer-completed-through-umbra-using-on-chain-data)
+5. [Process Data](#5.Process Data)
 
 # 1.The Main idea
 Umbra is a well-known privacy address protocol. Some industrial sybil clustersmay attempt to conceal their witchcraft behaviors through Umbra. The core logic of this screening is to capture sybil clusters through the information recorded in the event logs of Umbra.Cash smart contracts on the chain. By analyzing the event logs, we can trace the fund flow paths of transactions conducted through Umbra. These fund flow paths help us identify potential clusters of industrial sybil clusters
