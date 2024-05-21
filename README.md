@@ -1,4 +1,4 @@
-1. [The Main Idea](#1the-main-idea))
+1. [The Main Idea](#1the-main-idea)
 2. [Screening Results](#2.screening-results)
 3. [How Does Umbra Work?](#3.how-does-umbra-work)
 4. [How Do We Track the Complete Fund Flow of a Transfer Completed Through Umbra Using On-Chain Data?](#4.how-do-we-track-the-complete-fund-flow-of-a-transfer-completed-through-umbra-using-on-chain-data)
