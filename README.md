@@ -8,16 +8,16 @@ The report does not include specific screening code. If auditors need to review 
 
 The total number of Sybil Addresses is [**17,232**]. Detailed breakdown is as follows:    
 
-2.1 We have identified [**260 clusters** ] of industrial witches (clusters with a node size greater than 20).    
+### 2.1 We have identified [**260 clusters** ] of industrial witches (clusters with a node size greater than 20).    
 https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.
 <img width="819" alt="image" src="https://github.com/cryptoamy/layerzero_sybil_scan_report/assets/143737437/4f1a5424-a98d-49ef-bac5-179990a31f6b">
 
 
-2.2 The network diagrams for all 260 clusters are aggregated in a zip archive, which you can download from Google Drive to view locally.    
+### 2.2 The network diagrams for all 260 clusters are aggregated in a zip archive, which you can download from Google Drive to view locally.    
 :https://drive.google.com/file/d/1z1RIjMUnGUMO15EUeT9Pm7pjZmZNwQT0/view?usp=share_link    
 (After unzipping, you can see folders for all clusters, containing the funds flow graph and the funds flow tx details.)
 
-2.3 Here are some examples of large clusters. Detailed information on the 51 large clusters (including cluster address details and fund network diagrams) can be found in this folder: **https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.**    
+### 2.3 Here are some examples of large clusters. Detailed information on the 51 large clusters (including cluster address details and fund network diagrams) can be found in this folder: **https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result.**    
 
 
 #### 0x46cef06aaf268e1a72926f26ce0a863 , clusters of 3167 nodes; Download the file from https://github.com/cryptoamy/layerzero_sybil_scan_report/blob/main/result/3167_nodes_0x46cef06aaf268e1a72926f26ce0a86346d0486a6/3167_nodes_graph_0x46cef06aaf268e1a72926f26ce0a86346d0486a6.html , and open it in a browser to view the interactive version.
