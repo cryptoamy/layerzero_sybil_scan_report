@@ -31,7 +31,7 @@ Download the file from https://github.com/cryptoamy/layerzero_sybil_scan_report/
 ![3167_nodes_0x46cef06aaf268e1a72926f26ce0a86346d0486a6](https://github.com/cryptoamy/layerzero_sybil_scan_report/assets/143737437/5ff05d31-9798-4ada-9f36-f3b2278c8091)
 
 #### 0xaf6c59928d4d9c495ada09f88c5d22333dec342c , clusters of 2369 nodes
-Download the file from [https://github.com/cryptoamy/layerzero_sybil_scan_report/blob/main/result/3167_nodes_0x46cef06aaf268e1a72926f26ce0a86346d0486a6/     ](https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result/2369_nodes_0xaf6c59928d4d9c495ada09f88c5d22333dec342c)
+Download the file from https://github.com/cryptoamy/layerzero_sybil_scan_report/tree/main/result/2369_nodes_0xaf6c59928d4d9c495ada09f88c5d22333dec342c
 
 ![2369_nodes_0xaf6c59928d4d9c495ada09f88c5d22333dec342c](https://github.com/cryptoamy/layerzero_sybil_scan_report/assets/143737437/d8147240-4002-441d-8560-27c097942c32)
 
