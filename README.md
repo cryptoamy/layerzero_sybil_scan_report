@@ -1,3 +1,4 @@
+# Table of Contents
 1. [The Main Idea](#1-the-main-idea)
 2. [Screening Results](#2-screening-results)
 3. [How Does Umbra Work?](#3-how-does-umbra-work)
