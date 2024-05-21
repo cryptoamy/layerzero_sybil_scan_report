@@ -4,7 +4,6 @@
 4. [How Do We Track the Complete Fund Flow of a Transfer Completed Through Umbra Using On-Chain Data?](#how-do-we-track-the-complete-fund-flow-of-a-transfer-completed-through-umbra-using-on-chain-data)
 5. [Process Data](#process-data)
 
-6. 
 # 1.The Main idea
 Umbra is a well-known privacy address protocol. Some industrial sybil clustersmay attempt to conceal their witchcraft behaviors through Umbra. The core logic of this screening is to capture sybil clusters through the information recorded in the event logs of Umbra.Cash smart contracts on the chain. By analyzing the event logs, we can trace the fund flow paths of transactions conducted through Umbra. These fund flow paths help us identify potential clusters of industrial sybil clusters
 
@@ -73,7 +72,7 @@ https://etherscan.io/address/0xB8C0258F5E61156dCFb61b5c39aB8A2Eb77a1250
 Sender Address (0x451889B0f1b6e0D2edC5d9Cb510AA23F91B4Cf04) --> Intermediate Address (0xB8C0258F5E61156dCFb61b5c39aB8A2Eb77a1250) --> Withdraw Address (0x291787bfa50Dc4097dccc03beE8aBFcb2CE24e33)
 
 
-# 5  Details  
+# 5 Process Data
 ### 5.1. Get the raw data    
 a.Transcation Record of sending action from **Sender Address** to **Intermediate Address**    
 
