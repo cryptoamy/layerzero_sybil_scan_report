@@ -1,1 +1,3 @@
-# My report on Commonwealth is https://commonwealth.im/layerzero/discussion/18823-sybil-cluster-report-from-github-issue-573 (help to cross-reference and verify that I am not using another user's GitHub repository.)
+# My report on Commonwealth 
+https://commonwealth.im/layerzero/discussion/18823-sybil-cluster-report-from-github-issue-573    
+(help to cross-reference and verify that I am not using another user's GitHub repository.)
